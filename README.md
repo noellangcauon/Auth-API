@@ -1,4 +1,4 @@
-# Auth-API <br>
+# Auth-API
 C# - Clean Architecture <br>
 Jwt <br>
 Rfc2898DeriveBytes <br>
